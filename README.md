@@ -9,7 +9,7 @@ This C++ program validates a Sudoku puzzle using multithreading. It checks each 
 * Utilizes multithreading for concurrent checks
 * Displays detailed error reports
 ### Usage:
-* Compile the program using g++ with the -pthread flag: g++ sudoku_validator.cpp -o sudoku_validator -pthread
+* Compile the program using g++ with the -pthread flag: g++ Sudoku_Validator.cpp -o Sudoku_Validator -pthread
 * Run the program: ./Sudoku_Validator
 * The program will print the puzzle and validation results (valid or invalid with details)
 
